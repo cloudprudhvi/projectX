@@ -1,4 +1,4 @@
-Hi i am commit 1
+Hi i am commit from feature
 this is second commit
 this is feature branch changes
-this change is done by dev2
+change from new feature
