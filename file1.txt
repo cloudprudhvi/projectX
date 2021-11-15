@@ -1,3 +1,4 @@
-Hi i am commit 1
+Hi i am commit from feature
 this is second commit
 this is feature branch changes
+change from new feature
